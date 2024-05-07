@@ -13,7 +13,7 @@ const inter=Inter({subsets:['latin']})
            <Navbar/>
           {children}
         </main>
-        <div>footer</div>
+        <div>footerr  </div>
       </body> 
     </head>
   )
