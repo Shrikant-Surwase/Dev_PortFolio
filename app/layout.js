@@ -12,8 +12,9 @@ const inter=Inter({subsets:['latin']})
         <main className='max-h-screen relative mx-auto px-6 sm:px-12 lg:max-w-[70rem] max-w-[76rem] 2xl:max-w-[92rem]'>
            <Navbar/>
           {children}
+       <div>footer</div>
         </main>
-        <div>footer</div>
+       
       </body> 
     </head>
   )
